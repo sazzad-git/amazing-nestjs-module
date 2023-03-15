@@ -1,27 +1,22 @@
-# 🎬 Amazing NestJS - NestJS Framework (Hindi) | Youtube Series
+# 🎬 Amazing NestJS - NestJS Framework
 
 ---
 
-## Youtube Playlist [Link](https://bit.ly/3titPk3)
-
-This repository contains the source codes of the video lectures.
 
 ---
 
 ## 🚀 Getting started
 
-NestJS framework course content is divided into different sections where each section contains the source code/slide for
-the respective lecture.
+NestJS framework course content is divided into different sections.
 
 ### Running the code
 
-Select the particular section of interest and then open the directory for a `lecture-<lecture_no>`. Check the **README**
-file for the instructions, branches/tags for the examples given in a lecture.
+Select the particular section of interest and then open the directory.
 
 **_Example_**
 
 ```sh
-cd Fundamentals/lecture-8
+cd Fundamentals
 npm i
 npm start
 ```
@@ -35,8 +30,6 @@ To follow along with the APIs developed in the course, you can choose from these
 
 2. You can also import the `api.json` **(root directory/docs)** into the Postman.
 
-3. Explore the respective lecture APIs in our public workspace hosted on Postman named
-   [YT-NESTJS](https://bit.ly/3wJJKK6).
 
 ## 📘 Sections
 
@@ -57,8 +50,4 @@ To follow along with the APIs developed in the course, you can choose from these
 
 ## Stay in touch 👋
 
-Youtube Channel [Computer Baba](https://www.youtube.com/c/ComputerBabaOfficial)
 
-Twitter [@akacomputerbaba](https://twitter.com/akacomputerbaba)
-
-Discord Server [Link](https://discord.gg/9V4VTDM)
